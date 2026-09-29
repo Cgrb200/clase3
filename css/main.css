@@ -1,0 +1,61 @@
+
+/*
+    Este es un documento CSS
+*/
+header{
+    background-color: blueviolet;
+}
+table{
+    font-size: 15px;
+}
+th{
+    background-color: azure;
+}
+nav{
+    background-color: rgb(186, 155, 214);
+}
+main{
+    background-color: rgb(206, 105, 74);
+}
+footer{
+    background-color: rgb(118, 118, 211);
+}
+body {
+    font-size: 1.25em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(88, 84, 84);
+}
+h1 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 75px;
+    color:aquamarine
+}
+p {
+    background-color: rgba(160, 57, 57, 0.692);
+    color:blue
+}
+#principal {
+    color: blanchedalmond;
+    background-color: blueviolet;
+}
+.tema {
+    background-color: blue;
+    color: black;
+}
+.importante {
+    letter-spacing: 1.5px;
+    font-weight: bolder;
+    color: brown;
+}
+#rellano{
+    color: white;
+}
+#contenido-principal{
+    background-color: white;
+    color: blueviolet;
+    
+}
+#contenido-secundario{
+    color: chocolate;
+}
